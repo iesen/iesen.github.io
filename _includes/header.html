@@ -14,12 +14,11 @@
       </a>
 
       <div class="trigger">
-         <a href="{{ "/tr" | prepend: site.baseurl }}"><img width="4px" height="3px" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.7.1/flags/4x3/tr.svg"></img>Türkçe</a>
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+        <a class="page-link" href="{{ "/tr" | prepend: site.baseurl }}">
+          <img width="4px" height="3px" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.7.1/flags/4x3/tr.svg"></img>
+            Türkçe
+        </a>
+        <a class="page-link" href="{{ "/about" | prepend: site.baseurl }}">About</a>
       </div>
     </nav>
 
