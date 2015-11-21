@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Türkçe Bişiyler"
+title:  "Türkçe Deneme"
 date:   2015-08-19 11:33:55
 ---
 Merhaba
