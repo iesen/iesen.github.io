@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on İbrahim Esen</title>
+    <link>http://example.org/tr/post/</link>
+    <description>Recent content in Posts on İbrahim Esen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> </copyright>
+    <lastBuildDate>Tue, 01 Dec 2020 12:40:30 +0300</lastBuildDate><atom:link href="http://example.org/tr/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hoşgeldiniz</title>
+      <link>http://example.org/tr/post/welcome/</link>
+      <pubDate>Tue, 01 Dec 2020 12:40:30 +0300</pubDate>
+      
+      <guid>http://example.org/tr/post/welcome/</guid>
+      <description>Merhabalar,
+Bu benim yeni blog altyapısı ile ilk yazım. Zaman geçtikte eski yazıları buraya aktarmayı düşünüyorum.
+Yazılım, devops ve mimari gibi çeşitli konularda paylaşımlarımı zaman buldukça burada yapmak istiyorum.</description>
+    </item>
+    
+  </channel>
+</rss>

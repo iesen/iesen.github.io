@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi, I&#39;m İbrahim on İbrahim Esen</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Hi, I&#39;m İbrahim on İbrahim Esen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> </copyright>
+    <lastBuildDate>Tue, 01 Dec 2020 12:56:33 +0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://example.org/post/welcome/</link>
+      <pubDate>Tue, 01 Dec 2020 12:40:30 +0300</pubDate>
+      
+      <guid>http://example.org/post/welcome/</guid>
+      <description>Hi,
+This is my first post in this new blog platform. (Hugo)
+I will try to share my thougths and experiences about software, devops and architecture when i can find time.</description>
+    </item>
+    
+  </channel>
+</rss>

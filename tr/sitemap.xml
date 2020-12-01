@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/tr/about/</loc>
+    <lastmod>2020-12-01T12:56:33+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://example.org/tr/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tr/</loc>
+    <lastmod>2020-12-01T12:56:33+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://example.org/tr/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tr/post/welcome/</loc>
+    <lastmod>2020-12-01T12:40:30+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/post/welcome/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://example.org/tr/post/welcome/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tr/post/</loc>
+    <lastmod>2020-12-01T12:40:30+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://example.org/tr/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tr/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://example.org/tr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tr/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://example.org/tr/tags/"
+                />
+  </url>
+  
+</urlset>
